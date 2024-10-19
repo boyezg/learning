@@ -57,9 +57,11 @@
 
 
 
-// function add(a, b) {
+// function add(a, b = 10) {
 //     console.log(a + b)
 // }
+
+// add(1)
 
 // add(1, 2);
 // add(1, 4);
