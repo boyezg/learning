@@ -213,3 +213,12 @@ const add = (a, b) => {
 
 const sum = add(10, 20);
 sum.toUpperCase();
+
+const useState = (value) => {
+    let state = value;
+    const setState = () => {};
+
+    return [state, setState]
+}
+
+const [count, setCount] = useState(0);
