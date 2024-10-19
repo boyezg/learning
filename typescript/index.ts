@@ -57,3 +57,4 @@ const add = (a: number, b: number): number => {
 
 // Class
 // Generics
+// Prototypes JS
