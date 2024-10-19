@@ -1,4 +1,6 @@
-// Variables
+// Variables      
+//varibles com declare 3 types those are
+// {var let const}
 
 // console.log(x);
 // x = 11;
