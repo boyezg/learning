@@ -10,8 +10,8 @@ console.log(result); // Output: 8
 
 
 // Functions without Return Values (Void Functions)
-function greet() {
+function greeting() {
     console.log("Hello, World!"); // No return statement, just performs an action
 }
 
-greet(); // Output: "Hello, World!"
+greeting(); // Output: "Hello, World!"
